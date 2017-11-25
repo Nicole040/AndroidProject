@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">EatFood</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions." </string>
+    <string name="account">帳號</string>
+    <string name="password">密碼</string>
+    <string name="account_input">輸入帳號</string>
+    <string name="password_input">輸入密碼</string>
+    <string name="check_pwd">確認密碼</string>
+    <string name="telephone">手機號碼</string>
+    <string name="sex">性別</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="address">地址</string>
+    <string name="restaurant_category">種類</string>
+    <string name="restaurant_name">餐廳</string>
+    <string name="restaurant_branch">分店</string>
+    <string name="restaurant_address">地址</string>
+    <string name="eat_date">日期</string>
+    <string name="select_date">選擇日期</string>
+    <string name="eat_sex">性別限制</string>
+    <string name="eat_number">人數限制</string>
+    <string name="description">說明</string>
+    <string name="write_description">說明...</string>
+    <string name="preview_post">預覽</string>
+    <string name="check_post">確認送出</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+</resources>
